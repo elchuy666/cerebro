@@ -1,0 +1,2 @@
+# cerebro
+obsidian vault
